@@ -1,5 +1,5 @@
 # V2Ray
-How to Install V2Ray on Linux
+How to Install and Config V2Ray on Linux
 
 
 This script is completely translated into English. And now you can easily install it.
