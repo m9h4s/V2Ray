@@ -15,7 +15,7 @@ Now we can install curl (if you don't have it already) and download and run the 
 
 apt install curl -y
 
-bash <(curl -Ls https://github.com/m9h4s/V2Ray/blob/main/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/m9h4s/V2Ray/main/install.sh)
 
 Management panel address:
 IP:54321
