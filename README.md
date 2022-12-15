@@ -23,8 +23,9 @@ bash <(curl -Ls https://raw.githubusercontent.com/m9h4s/V2Ray/main/install.sh)
 ```
 
 Management panel address:
+```
 IP:54321
-
+```
 
 -------------------------------------
 
@@ -38,7 +39,7 @@ apt-get update -y && apt-get upgrade -y
 
 Guide:
 To bypass the national internet
-Put a suitable IP instead of [].
+Put a suitable IP instead of [ ].
 
 ```
 sysctl net.ipv4.ip_forward=1
