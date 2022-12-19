@@ -27,9 +27,9 @@ Management panel address:
 IP:54321
 ```
 
-```
+
 https://youtu.be/nXizFiThGl0
-```
+
 
 -------------------------------------
 
@@ -52,6 +52,5 @@ iptables -t nat -A PREROUTING -j DNAT --to-destination [IP address of the destin
 iptables -t nat -A POSTROUTING -j MASQUERADE
 ```
 
-‍‍‍```
 https://youtu.be/695dYrUL18U
-```
+
