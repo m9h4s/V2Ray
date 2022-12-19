@@ -27,6 +27,10 @@ Management panel address:
 IP:54321
 ```
 
+```
+https://youtu.be/nXizFiThGl0
+```
+
 -------------------------------------
 
 
@@ -46,4 +50,8 @@ sysctl net.ipv4.ip_forward=1
 iptables -t nat -A PREROUTING -p tcp --dport 22 -j DNAT --to-destination [The IP of the server that wants to act as an intermediary]
 iptables -t nat -A PREROUTING -j DNAT --to-destination [IP address of the destination server]
 iptables -t nat -A POSTROUTING -j MASQUERADE
+```
+
+‍‍‍```
+https://youtu.be/695dYrUL18U
 ```
